@@ -1,4 +1,7 @@
 # probabilityguesser-tk
+
+![Screenshot 2023-07-23 at 3 48 47 PM](https://github.com/veevyo/probabilityguesser-tk/assets/41368076/2b436512-eb89-4e4f-b1b7-acd0e0ef77e8)
+
 a game about probability and coins. written with tk in python
 
 # credits
